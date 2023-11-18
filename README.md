@@ -10,7 +10,7 @@ To explore the DSA Linked List Application, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Sukanyasingh3/DSA-Linked-List-Application.git
+   git clone https://github.com/TartejBrothers/DSA-Linked-List.git
    cd DSA-Linked-List-Application
    ```
 

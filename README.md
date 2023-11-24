@@ -22,10 +22,6 @@ To explore the DSA Linked List Application, follow these steps:
 - **HTML**
 - **CSS**
 
-## Folder Structure
-
-Describe the structure of your project's folders.
-
 ## Contribution Guidelines
 ![GIT3](https://github.com/TartejBrothers/DSA-Linked-List/assets/113462236/5511f694-c170-476e-935f-167ea00d1536)
 
